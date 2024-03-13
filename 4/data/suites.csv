@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 13 17:27:00 GMT 2024","Wed Mar 13 17:27:02 GMT 2024","1683","chromium","user.spec.ts","","","","should be able to register to our application using MODELS",""
+"passed","Wed Mar 13 17:26:54 GMT 2024","Wed Mar 13 17:26:57 GMT 2024","3302","chromium","todo.spec.ts","","","","should be able to add a new todo using MODELS and Page Object",""
+"passed","Wed Mar 13 17:26:57 GMT 2024","Wed Mar 13 17:27:00 GMT 2024","2885","chromium","todo.spec.ts","","","","should be able to delete a todo with API class and MODELS",""
